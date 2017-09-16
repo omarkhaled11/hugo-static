@@ -5,43 +5,34 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableRSS = true
+googleAnalytics = "UA-123-45"
 
 [params]
-  title = "Dimension"
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
-  logo = "fa-diamond"
-  copyright = "Untitled"
-
-[[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
+  title = "Omar Khaled"
+  description = '<!--[-->Cross Platform Developer (React / React Native)<!--]--><br />'
+  logo = ""
+  copyright = ""
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
+  link = "https://www.facebook.com/omar.khaled.587606"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/omarkhaled11"
 
 [languages]
 [languages.en]
 languageName = "English"
 weight = 1
-title = "Dimension"
+title = "Omar Khaled"
+description = '<!--[-->Cross Platform Developer (React / React Native)<!--]--><br />'
 
 [languages.de]
-languageName = "Deutsch"
+languageName = ""
 weight = 2
 title = "Dimension"
-description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+description = '<!--[-->Cross Platform Developer<!--]--><br />'
+
